@@ -1,6 +1,27 @@
-# uiholloween
+?[Halloween](https://cdni.iconscout.com/illustration/premium/thumb/happy-halloween-9-997834.png)
+[![GitHub stars](https://img.shields.io/github/stars/iampawan/FlutterExampleApps.svg?style=social&label=Star)](https://github.com/amirziyacode)
+[![GitHub forks](https://img.shields.io/github/forks/iampawan/FlutterExampleApps.svg?style=social&label=Fork)](https://github.com/amirziyacode?tab=repositories)
 
-A new Flutter project.
+# Halloween Swipe page 
+
+A n Beautiful Swipe page
+
+use this source code in your project 
+
+thank you ☺
+
+## Platform
+
+ios ✔️
+
+android ✔️
+
+## Development Setup
+Clone the repository and run the following commands:
+```
+flutter pub get
+flutter run
+```
 
 ## Getting Started
 
