@@ -17,7 +17,7 @@ ios ✔️
 android ✔️
 
 ## Preview
-![Uploading hallo-ween-online-video-cutterco.gif…]()
+![hallo-ween-online-video-cutterco](https://user-images.githubusercontent.com/75315732/139647605-4c49cabd-d72a-4059-89d4-9f00c46d29d6.gif)
 
 ## Development Setup
 Clone the repository and run the following commands:
