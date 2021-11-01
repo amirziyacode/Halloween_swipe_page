@@ -44,6 +44,7 @@ class _MyHomePageState extends State<MyHomePage> {
       // Home page
         backgroundColor: const Color(0xFF101010),
         body: ConcentricPageView(
+          verticalPosition: 0.85,
             colors: const <Color>[Colors.deepOrange, Colors.orange, Colors.red],
             itemBuilder: (int index, double value) {
               int pageIndex = (index % images.length);
