@@ -17,8 +17,7 @@ ios ✔️
 android ✔️
 
 ## Preview
-
-![Swipe page](https://s4.uupload.ir/files/hallo-ween-online-video-cutterco_aolt.gif)
+![Uploading hallo-ween-online-video-cutterco.gif…]()
 
 ## Development Setup
 Clone the repository and run the following commands:
