@@ -4,7 +4,7 @@
 
 # Halloween Swipe page 
 
-A n Beautiful Swipe page
+A Beautiful Swipe page
 
 use this source code in your project 
 
